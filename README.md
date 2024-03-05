@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/kulindupr" target="blank">
-Saurabh</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/kulindupr" >KULINDU</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 **kulindupr/kulindupr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
