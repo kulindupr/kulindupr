@@ -84,7 +84,7 @@
 </table>
 
 <div align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?kulindupr&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?user=kulindup&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </div>
 --
 <br>
