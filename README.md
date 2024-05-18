@@ -75,16 +75,16 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=eshan-nayanapriya&show_icons=true&theme=radical&count_private=true'/>
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=kulindupr&show_icons=true&theme=radical&count_private=true'/>
 </td>
  <td width="50%" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-nayanapriya&count_private=true&theme=radical" alt="eshan-nayanapriya" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=kulindupr&count_private=true&theme=radical" alt="kulindupr" />
   </td>
 </tr>
 </table>
 
 <div align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-nayanapriya&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?kulindupr&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </div>
 --
 <br>
