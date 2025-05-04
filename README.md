@@ -24,11 +24,11 @@
 
 - 🎓 I’m an Undergraduate at [SLIIT](https://www.sliit.lk/)
 
-- 🌱 I’m currently learning **Mern Stack**
+<!-- 🌱 I’m currently learning **Mern Stack & C#**-->
 
-- 🔭 I’m currently working on **Sahan Grinding Mills project**
+- 🔭 I’m currently working as a **Software Engineering Intern at XENOSYS Software Solutions**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA/C#**
 
 - 📫 How to reach me **kulindupabasara16@gmail.com**
 <br>
