@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/kulindupr"><img src="https://img.shields.io/github/followers/kulindupr?label=Follow&style=social"></a>
   <img src="https://komarev.com/ghpvc/?username=kulindupr&style=flat-square&color=brightgreen">
-  <img src="https://img.shields.io/badge/Age-23-blue">
+  <img src="https://img.shields.io/badge/Age-24-blue">
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success">
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen">
 </p>
