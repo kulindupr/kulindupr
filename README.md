@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering+Student;Full-Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kulindu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kulindu?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=kulindupr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kulindupr?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
 </p>
 
 ---
@@ -96,20 +96,20 @@ status: Always learning, always growing
 ### 📊 GitHub Analytics & Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kulindu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&exclude_repo=kulindu"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kulindupr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindupr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&exclude_repo=kulindupr"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulindu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulindupr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindu&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindupr&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages Donut" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulindu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulindupr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ status: Always learning, always growing
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kulindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kulindupr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -125,7 +125,7 @@ status: Always learning, always growing
 ### 📈 Repository Language Breakdown
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kulindu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Coding Time Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kulindupr&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Coding Time Stats" />
 </div>
 
 <details>
@@ -155,7 +155,7 @@ status: Always learning, always growing
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=kulindu&repo=kulindu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/kulindu/kulindu)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=kulindupr&repo=kulindupr&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/kulindupr/kulindupr)
 
 </div>
 
@@ -170,17 +170,17 @@ status: Always learning, always growing
 ### 📈 Coding Activity & Productivity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulindu&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulindupr&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kulindu&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kulindu&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kulindupr&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kulindupr&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kulindu&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kulindu&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kulindupr&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kulindupr&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
@@ -209,7 +209,7 @@ status: Always learning, always growing
 ### 📊 Contribution Metrics
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kulindu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kulindupr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ---
