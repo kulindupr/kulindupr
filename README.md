@@ -93,15 +93,19 @@ status: Always learning, always growing
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Most Used Languages
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kulindu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&exclude_repo=kulindu"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulindu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindu&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages Donut" />
 </div>
 
 <div align="center">
@@ -113,8 +117,37 @@ status: Always learning, always growing
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kulindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kulindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
+
+---
+
+### 📈 Repository Language Breakdown
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kulindu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Coding Time Stats" />
+</div>
+
+<details>
+<summary><b>🔍 Detailed Language & Technology Usage</b></summary>
+<br>
+
+**Most Active Languages in My Repositories:**
+- **JavaScript/TypeScript**: Web development, React applications, Node.js backends
+- **Python**: Data analysis, automation scripts, machine learning projects
+- **Java**: Enterprise applications, Android development, algorithms
+- **C#**: .NET applications, desktop software, web APIs
+- **PHP**: Web development, server-side scripting, CMS development
+- **HTML/CSS**: Frontend markup, responsive design, UI frameworks
+
+**Technology Stack Distribution:**
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend**: Node.js, .NET Core, PHP, Express.js
+- **Databases**: MySQL, MongoDB, SQLite
+- **Tools & Platforms**: Git, VS Code, Figma, Adobe Creative Suite
+- **Cloud & DevOps**: Basic deployment, version control workflows
+
+</details>
 
 ---
 
@@ -122,20 +155,32 @@ status: Always learning, always growing
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kulindu&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/kulindu/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kulindu&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/kulindu/project2)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=kulindu&repo=kulindu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/kulindu/kulindu)
 
 </div>
 
+**🚀 Project Highlights:**
+- 💼 **Portfolio Projects**: Full-stack web applications showcasing modern development practices
+- 🎨 **UI/UX Designs**: Creative interfaces built with React and modern CSS frameworks
+- 🔧 **Utility Tools**: Automation scripts and productivity enhancers
+- 📱 **Responsive Applications**: Mobile-first designs with cross-platform compatibility
+
 ---
 
-### 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📈 Coding Activity & Productivity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulindu&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kulindu&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kulindu&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kulindu&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kulindu&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
@@ -161,10 +206,10 @@ status: Always learning, always growing
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 Contribution Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kulindu/kulindu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kulindu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ---
