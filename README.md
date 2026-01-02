@@ -17,7 +17,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="250"/>
 
 - 🎓 I'm an undergraduate at [SLIIT](https://www.sliit.lk/)  
-- 💼 Currently working as a **Software Engineering Intern at XENOSYS Software Solutions**
+- 💼 Currently working as a **Software Engineering at XENOSYS Software Solutions**
 - 💬 Ask me about **Java, C#, MERN, .NET**
 - ✨ Passionate about full-stack development, AI integration, and UI/UX
 - 📧 Reach me at: **kulindupabasara16@gmail.com**
