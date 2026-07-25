@@ -1,303 +1,87 @@
-<h1 align="center">
-Hi 👋 I'm Kulindu Pabasara
-</h1>
-
-<h3 align="center">
-Software Engineer • Full Stack Developer • AI Enthusiast
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer+from+Sri+Lanka;Full+Stack+.NET+Developer;React+%7C+ASP.NET+Core+%7C+MERN+Stack;Building+Scalable+Business+Applications;AI+Integrated+Software+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=cyan&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+I'm+Kulindu+Pabasara+👋;Software+Engineer+%7C+Full+Stack+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
 </p>
 
 <p align="center">
-
-<a href="https://github.com/kulindupr">
-<img src="https://img.shields.io/github/followers/kulindupr?style=social">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=kulindupr&style=flat-square&color=00c853">
-
-<img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green">
-
-<img src="https://img.shields.io/badge/Open%20To-Freelance-success">
-
-<img src="https://img.shields.io/badge/Experience-2+Years-blue">
-
+  <a href="https://github.com/kulindupr"><img src="https://img.shields.io/github/followers/kulindupr?label=Follow&style=social"></a>
+  <img src="https://komarev.com/ghpvc/?username=kulindupr&style=flat-square&color=brightgreen">
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success">
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen">
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
+<img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="250"/>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
-
-🚀 Software Engineer currently working at **X365**
-
-🎓 Final Year BSc (Hons) Information Technology Undergraduate at **SLIIT**
-
-💻 Passionate about
-
-- Enterprise Software Development
-- ERP Systems
-- E-Commerce Platforms
-- AI Integrated Applications
-- Full Stack Web Development
-
-🌱 Currently learning
-
-- Cloud Technologies
-- DevOps
-- System Design
-- AI Engineering
-
-💬 Ask me about
-
-```
-ASP.NET Core
-.NET
-React
-MERN Stack
-SQL Server
-REST APIs
-Entity Framework
-Software Architecture
-```
-
-📫 Email
-
-```
-kulindupabasara16@gmail.com
-```
+- 🎓 Completing a **BSc (Hons) in Information Technology** at [SLIIT](https://www.sliit.lk/)
+- 💼 Currently working as a **Software Engineer at X365**
+- 🚀 Founder of **TechForge**, providing software and electronics engineering solutions
+- 🔬 Building **Machine Learning models for electrocardiograms (ECG) and echocardiograms**
+- 🛠️ Actively exploring **software reverse engineering**, **data-driven crash game models**, and **IoT smart agriculture**
+- 💬 Ask me about **Java, C#, MERN, .NET, REST APIs, and System Architecture**
+- 📧 Reach me at: **kulindupabasara16@gmail.com**
 
 ---
 
-# 🚀 Tech Stack
+## 💼 Experience & Projects
 
-## Languages
+### 🏢 Experience
+- **Software Engineer** @ X365 *(Jan 2026 - Present)*
+- **Associate Software Engineer** @ Xenosys Software Solution *(May 2025 - Dec 2025)*
+- **Software Engineer Intern** @ Xenosys Software Solution *(Nov 2024 - May 2025)*
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,cpp,c,html,css" />
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,figma" />
-
-</p>
+### 🚀 Featured Projects
+- **[Leonara - E-Commerce Platform](https://github.com/kulindupr)**: Full-stack customized e-commerce platform built with ASP.NET Core, C#, SQL Server, and Entity Framework. Features robust RBAC and business workflow automation.
+- **[Milan - POS System](https://github.com/kulindupr)**: MERN stack Point of Sale system for retail operations, integrating JWT authentication, real-time reporting, and scalable backend architecture.
+- **[InternLink AI Assistant](https://github.com/kulindupr)**: AI-powered RAG chatbot supporting an internship management system built on the MERN stack to provide intelligent career guidance to university students.
 
 ---
 
-## Backend
+## ⚒️ Tech & Tools
 
-<p>
+### 💻 Languages
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+### 🌐 Frontend & Backend
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat&logo=dotnet)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 
-</p>
-
-ASP.NET Core
-
-Entity Framework Core
-
-REST APIs
-
-MVC
-
-Razor
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</p>
-
-SQL Server
-
-Stored Procedures
-
-Database Design
+### 🧰 Tools & Databases
+![SQL Server](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoftsqlserver)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visualstudio)
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudiocode)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
 
 ---
 
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure" />
-
-</p>
-
-Bitbucket
-
-Windows Server
-
-Remote Desktop
-
----
-
-# 💼 Experience
-
-### 💻 Software Engineer
-
-**X365**
-
-Jan 2026 — Present
-
-- ERP Development
-- E-Commerce Solutions
-- Full Stack Development
-- REST APIs
-- Database Design
-
----
-
-### 💻 Associate Software Engineer
-
-**Xenosys Software Solutions**
-
-May 2025 — Dec 2025
-
-- ASP.NET Applications
-- Windows Applications
-- Business Systems
-- Software Maintenance
-
----
-
-### 💻 Software Engineer Intern
-
-**Xenosys Software Solutions**
-
-Nov 2024 — May 2025
-
-- .NET Development
-- SQL Server
-- ASP.NET Core
-- Software Engineering
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 Leonara
-
-Enterprise E-Commerce Platform
-
-✔ ASP.NET Core
-
-✔ SQL Server
-
-✔ Entity Framework
-
-✔ REST API
-
-✔ Role Based Authentication
-
----
-
-## 🏪 Milan POS
-
-Modern MERN Stack POS System
-
-✔ React
-
-✔ Node.js
-
-✔ MongoDB
-
-✔ Express
-
-✔ JWT Authentication
-
----
-
-## 🤖 InternLink AI Assistant
-
-AI Powered Internship Assistant
-
-✔ RAG
-
-✔ MERN
-
-✔ AI Chatbot
-
-✔ Career Guidance
-
----
-
-# 📈 GitHub Analytics
-
+## 📊 GitHub Stats
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kulindupr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindupr&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kulindupr&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindupr&layout=compact&theme=tokyonight&hide_border=true"/>
-
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kulindu-pabasara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kulindu24-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:kulindupabasara16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kulindupr&theme=tokyonight&hide_border=true">
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kulindupr&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kulindupr&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:kulindupabasara16@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/kulindupr">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building scalable software solutions with clean architecture and modern technologies."*
-
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </p>
