@@ -8,9 +8,8 @@
 |_|\_\__,_|_|_|_| |_|\__,_|\__,_|_|   \__,_||_.__/ \__,_|___/\__,_|_|  \__,_|
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40kulindu%3A~%24+whoami;Software+Engineer+%7C+Full+Stack+Developer;C%23+.NET+%7C+MERN+%7C+SQL+%7C+REST+APIs;Building+e-commerce%2C+ERP+%26+POS+systems...;sudo+access%3A+granted+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40kulindu%3A~%24+whoami;Software+Engineer+%7C+Full+Stack+Developer;C%23+.NET+%7C+MERN+%7C+SQL+%7C+REST+APIs;Building+e-commerce%2C+ERP+%26+POS+systems...;sudo+access%3A+granted+%E2%9C%93" alt="Typing SVG" />
 
-![](https://img.shields.io/badge/-000000?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/GitHub-kulindupr-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/kulindupr)
 ![Visitors](https://komarev.com/ghpvc/?username=kulindupr&style=for-the-badge&color=00FF41&labelColor=000000)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000)
@@ -177,7 +176,7 @@ kulindu@dev:~$ curl stats.github/kulindupr
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kulindupr&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindupr&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF41&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kulindupr&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=kulindupr&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" />
 
 </div>
 
